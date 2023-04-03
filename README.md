@@ -1,9 +1,13 @@
 # Data-Visualization-Lunch-Form
-![image](https://user-images.githubusercontent.com/78371221/229536952-01e4a03b-b083-4514-b78c-14c4c5c81a42.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78371221/229536952-01e4a03b-b083-4514-b78c-14c4c5c81a42.png"  width="500" height="300">
+</p>
 
 This repository is based on visualizing the results of using question answering models on generated interrogative pronouns converted from labels of a lunch form request.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78371221/229452188-89fe46dd-d1f1-4360-979a-df89c50aaa6f.png">
+</p>
 
-![newplot](https://user-images.githubusercontent.com/78371221/229452188-89fe46dd-d1f1-4360-979a-df89c50aaa6f.png)
 The above snippet shows a a example of one of the visualization charts(tree map) I used to plot the data.
 
 # Links:
